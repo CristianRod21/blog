@@ -1,0 +1,26 @@
+---
+title: "About"
+image: profile.JPEG
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christianrodriguezsoto/
+    - icon: github
+      text: Github
+      href: https://github.com/CristianRod21
+
+---
+
+Hey, I'm Christian from Costa Rica 👋. 
+I'm an enthusiast who loves computers and occasionally builds things. I'm currently pursuing an MSc in Computer Science and am deeply committed to self-education.
+
+Guess what? I recently got myself a new PC!
+
+In the professional realm, I'm delving into model adaptation, RAG, and LLM's. And, recently some
+speech recognition.
+
+When I'm not geeking out on tech, I enjoy watching dramas and psychological thrillers. I've decided to start this blog for personal reasons — it's high time I have an output for all the inputs I consume. Plus, I'd love to share some cool stuff with you. Stay tuned!
+
+Feel free to drop a message. I'm eager to be part of a this vibrant community.

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/how-i-built-this/index.html",
+    "href": "posts/how-i-built-this/index.html",
+    "title": "How Did I Build This Interactive Blog with Quarto?",
+    "section": "",
+    "text": "As usual, I was wandering around, pondering what might be the best option for my needs.\nDespite diving deep into analysis paralysis and juggling a few options such as raw HTML, Jekyll, Mermaid, and Quarto, I finally settled on one."
+  },
+  {
+    "objectID": "posts/how-i-built-this/index.html#why-choose-quarto-for-blogging",
+    "href": "posts/how-i-built-this/index.html#why-choose-quarto-for-blogging",
+    "title": "How Did I Build This Interactive Blog with Quarto?",
+    "section": "Why Choose Quarto for Blogging?",
+    "text": "Why Choose Quarto for Blogging?\nSo, why did I choose Quarto? Here are my reasons:\n\nJeremy Howard’s Influence: I’ve always admired Jeremy Howard on Twitter. On exploring nbdev, I discovered it was deprecated, leading me to Quarto.\nHands-on Learning Advocacy: My goal is for this platform to extend beyond mere text, enabling readers to interact with live code snippets.\nMarkdown Compatibility: Quarto’s integration with the familiar markdown format streamlines content creation.\nJupyter Notebook Integration: Regularly working with Jupyter notebooks, Quarto’s capability to convert them into blog posts resonated with my workflow.\nFeature-Rich Platform: Dive deeper into Quarto’s offerings here."
+  },
+  {
+    "objectID": "posts/how-i-built-this/index.html#how-to-build-an-interactive-blog-with-quarto",
+    "href": "posts/how-i-built-this/index.html#how-to-build-an-interactive-blog-with-quarto",
+    "title": "How Did I Build This Interactive Blog with Quarto?",
+    "section": "How to Build an Interactive Blog with Quarto",
+    "text": "How to Build an Interactive Blog with Quarto\nI won’t reinvent the wheel here. Instead, I’ll guide you to Quarto’s detailed and user-friendly tutorial on setting up a blog:\n\nCreating a Quarto Blog\nDeploying your creation? I opted for GitHub Pages, and Quarto’s guide made the transition effortless: Deploying with GitHub Pages.\n\nFeedback is gold! If you have suggestions or spot errors, please reach out. Happy building!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hey, I’m Christian from Costa Rica 👋. I’m an enthusiast who loves computers and occasionally builds things. I’m currently pursuing an MSc in Computer Science and am deeply committed to self-education.\nGuess what? I recently got myself a new PC!\nIn the professional realm, I’m delving into model adaptation, RAG, and LLM’s. And, recently some speech recognition.\nWhen I’m not geeking out on tech, I enjoy watching dramas and psychological thrillers. I’ve decided to start this blog for personal reasons — it’s high time I have an output for all the inputs I consume. Plus, I’d love to share some cool stuff with you. Stay tuned!\nFeel free to drop a message. I’m eager to be part of a this vibrant community."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Christian Blog",
+    "section": "",
+    "text": "How Did I Build This Interactive Blog with Quarto?\n\n\n\n\n\n\n\npersonal-experience\n\n\n\n\n\n\n\n\n\n\n\nSep 26, 2023\n\n\nChristian Rodríguez\n\n\n\n\n\n\nNo matching items"
+  }
+]

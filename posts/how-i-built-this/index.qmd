@@ -1,0 +1,30 @@
+---
+title: "How Did I Build This Interactive Blog with Quarto?"
+author: "Christian Rodríguez"
+date: "2023-09-26"
+categories: [personal-experience]
+meta-description: "Step-by-step guide on building an interactive blog using Quarto, seamlessly integrating markdown and Jupyter notebooks."
+---
+
+As usual, I was wandering around, pondering what might be the best option for my needs.
+
+Despite diving deep into analysis paralysis and juggling a few options such as raw HTML, Jekyll, Mermaid, and Quarto, I finally settled on one.
+
+## Why Choose Quarto for Blogging?
+
+So, why did I choose Quarto? Here are my reasons:
+
+* **Jeremy Howard's Influence**: I've always admired [Jeremy Howard on Twitter](https://twitter.com/jeremyphoward). On exploring nbdev, I discovered it was deprecated, leading me to Quarto.
+* **Hands-on Learning Advocacy**: My goal is for this platform to extend beyond mere text, enabling readers to interact with live code snippets.
+* **Markdown Compatibility**: Quarto's integration with the familiar markdown format streamlines content creation.
+* **Jupyter Notebook Integration**: Regularly working with Jupyter notebooks, Quarto's capability to convert them into blog posts resonated with my workflow.
+* **Feature-Rich Platform**: Dive deeper into Quarto's offerings [here](https://quarto.org/).
+
+## How to Build an Interactive Blog with Quarto
+
+I won't reinvent the wheel here. Instead, I'll guide you to Quarto's detailed and user-friendly tutorial on setting up a blog:
+
+* [Creating a Quarto Blog](https://quarto.org/docs/websites/website-blog.html)
+* Deploying your creation? I opted for GitHub Pages, and Quarto's guide made the transition effortless: [Deploying with GitHub Pages](https://quarto.org/docs/publishing/github-pages.html).
+
+Feedback is gold! If you have suggestions or spot errors, please reach out. Happy building!
